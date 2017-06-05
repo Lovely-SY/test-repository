@@ -2,4 +2,4 @@
 
 -	안녕 -안녕안녕
 
-[test1](test1)
+[test1](test1.md)
